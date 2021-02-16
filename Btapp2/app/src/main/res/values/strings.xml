@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Juoma menu</string>
+    <string name="vdkarus">Vodka Russian</string>
+    <string name="lngisl">Longisland</string>
+    <string name="cola">Cola</string>
+    <string name="vdkatonic">Vodka Tonic</string>
+    <string name="connect">Connect</string>
+    <string name="message">msg</string>
+</resources>
